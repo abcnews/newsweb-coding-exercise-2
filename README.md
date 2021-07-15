@@ -2,7 +2,10 @@
 
 This coding exercise is a bare-bones Todo application built with React and TypeScript. The exercise is designed to allow creativity in any area you wish, whether that's writing tests, improving types, adding styles, accessibility, clean code or just adding features. You may choose whatever you see fit to improve the application.
 
-**There's only one requirement:** add a counter that displays how many items are left todo.
+## Requirements:
+
+1. Add a counter that displays how many items are remaining todo.
+2. Improve the application and code base.
 
 Any improvements or changes you make should be documented thoroughly in `NOTES.md`. Be sure to note your reasoning and thoughts as this is more important than the changes.
 
